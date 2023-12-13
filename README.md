@@ -4,8 +4,8 @@ Hi there 👋
 In addition to that, I am proficient in HTML, CSS, and Bootstrap. 
 I can create the visual part of a project based on visualizations, for example, in Figma.
 
-💡 📚	I acquire knowledge from courses available on udemy.com, scrimba.com, and tworcystron.pl. 
-I am open to learning and exploring new technologies.
+💡 📚	I acquire knowledge from courses available on udemy.com, scrimba.com, and tworcastron.pl. 
+I'm open to learning and exploring new technologies.
 
 ✨As part of my learning journey, I have created several applications that are available on my profile.
 

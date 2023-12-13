@@ -1,7 +1,7 @@
 Hi there 👋
 
  💻⚡ I'm an aspiring frontend developer who is constantly improving my skills in JavaScript and React. 
-In addition to that, I am proficient in HTML, CSS, and Bootstrap. 
+In addition to that, I'm proficient in HTML, CSS, and Bootstrap. 
 I can create the visual part of a project based on visualizations, for example, in Figma.
 
 💡 📚	I acquire knowledge from courses available on udemy.com, scrimba.com, and tworcastron.pl. 

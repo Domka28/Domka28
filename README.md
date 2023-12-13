@@ -12,7 +12,7 @@ I'm open to learning and exploring new technologies.
 [Tindog 🐶](https://domka28.github.io/Tindog/)
 [Movie watchlist 🎬](https://domka28.github.io/movie-watchlist/)
 [Quiz 🎖](https://domka28.github.io/Quiziti/)
-[Color plettes 🎨](https://domka28.github.io/color-palettes/)
+[Color palettes 🎨](https://domka28.github.io/color-palettes/)
 [Unit conversion ⚖️](https://domka28.github.io/unit-conversion/)
 [Memory game 🎲](https://domka28.github.io/memory-game/)
 [Hangman game 🎯](https://domka28.github.io/hangman-game/)

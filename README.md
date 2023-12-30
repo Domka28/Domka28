@@ -9,13 +9,12 @@ I'm open to learning and exploring new technologies.
 
 ✨As part of my learning journey, I have created several applications that are available on my profile.
 
-[Tindog 🐶](https://domka28.github.io/Tindog/)
-[Movie watchlist 🎬](https://domka28.github.io/movie-watchlist/)
 [Quiz 🎖](https://domka28.github.io/Quiziti/)
-[Color palettes 🎨](https://domka28.github.io/color-palettes/)
-[Unit conversion ⚖️](https://domka28.github.io/unit-conversion/)
 [Memory game 🎲](https://domka28.github.io/memory-game/)
 [Hangman game 🎯](https://domka28.github.io/hangman-game/)
 [Art website 🖼](https://domka28.github.io/art-website/)
-
+[Color palettes 🎨](https://domka28.github.io/color-palettes/)
+[Unit conversion ⚖️](https://domka28.github.io/unit-conversion/)
+[Tindog 🐶](https://domka28.github.io/Tindog/)
+[Movie watchlist 🎬](https://domka28.github.io/movie-watchlist/)
 
